@@ -70,3 +70,18 @@ This report will also include the reccommendations for their performance.
 
 ### 2. Question
 ![](../../../OneDrive/Desktop/GIt%20ecommerce%20image/X-ecommerce%20question%20graph-Map%201.png)
+### 3. Data Understanding
+#### a. Entity
+![](../../../OneDrive/Desktop/GIt%20ecommerce%20image/2.%20Entity.jpg)
+#### b. Attribute
+![](../../../OneDrive/Desktop/GIt%20ecommerce%20image/3.%20Attribute.jpg)
+#### c. Entity Diagram
+![](../../../OneDrive/Desktop/GIt%20ecommerce%20image/4.%20Entity%20diagram.jpg)
+#### d. Data Cleaning
+1. Create dataframe
+
+2. Check if dataframe is null
+
+3. Combine all related table to find null and duplicated value
+
+4. 
