@@ -69,7 +69,7 @@ The analysis performs the business overall of X-ecommerce company that was estab
 This report will also include the reccommendations for their performance.
 
 ### 2. Question
-<img src="https://github.com/Tann1901/e-commerce/blob/main/GIt%20ecommerce%20image/1.%20X-ecommerce%20question%20graph-Map%201.png" height="250">
+<img src="https://github.com/Tann1901/e-commerce/blob/main/GIt%20ecommerce%20image/1.%20X-ecommerce%20question%20graph-Map%201.png" height="350">
 ### 3. Data Understanding
 #### a. Entity
 <img src="https://github.com/Tann1901/e-commerce/blob/main/GIt%20ecommerce%20image/2.%20Entity.jpg" height="250">
@@ -81,6 +81,29 @@ This report will also include the reccommendations for their performance.
 
 #### d. Data Cleaning
 1. Create dataframe
+```
+import pandas as pd
+import numpy as np
+
+from google.colab import drive
+drive.mount('/content/drive', force_remount=True)
+
+#CREATE DATAFRAME
+#Customer
+customer_df = pd.read_excel('/content/dataset/customers_dataset.xlsx') 
+#Product category
+product_category_df = pd.read_excel('/content/dataset/product_category_name_translation.xlsx') #bảng dịch tên tiếng anh cho product
+#Product_category_name
+product_df = pd.read_excel('/content/dataset/products_dataset.xlsx')
+#Order review
+order_reviews_df = pd.read_excel('/content/dataset/order_reviews_dataset.xlsx')
+#Order payment
+order_payment_df = pd.read_excel('/content/dataset/order_payments_dataset.xlsx')
+#Order
+order_df = pd.read_excel('/content/dataset/orders_dataset.xlsx')
+#Order item
+order_item_df = pd.read_excel('/content/dataset/order_items_dataset.xlsx')
+```
 <img src="https://github.com/Tann1901/e-commerce/blob/main/GIt%20ecommerce%20image/5.%20Create%20dataframe.jpg" height="250">
 2. Check if dataframe is null
 <img src="https://github.com/Tann1901/e-commerce/blob/main/GIt%20ecommerce%20image/6.%20Check%20null.jpg" height="250">
