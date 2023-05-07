@@ -70,7 +70,7 @@ This report will also include the reccommendations for their performance.
 
 ### 2. Question
 
-<img src="https://github.com/Tann1901/e-commerce/blob/main/GIt%20ecommerce%20image/1.%20X-ecommerce%20question%20graph-Map%201.png" height="350">
+<img width="1332" alt="1  X-ecommerce question graph-Map 1" src="https://user-images.githubusercontent.com/108020327/236655402-8e018fdc-1b24-4f6a-b36a-b909e8d2aa09.png">
 
 ### 3. Data Understanding
 
