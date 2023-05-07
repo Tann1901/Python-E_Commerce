@@ -146,7 +146,7 @@ The sales were increasing throughout the year with peak recorded in November, 20
 
 #### PRODUCT
 The graph shows highest proportion product group revenue are: health_beauty, bed_bath_table, watch_gifts, computers_accessories, sport_leisure ranging from 7.06%-8.76%. These belong to low average price group and and with average payment settlement at 2-4 times. Average delivery fee for these items are in range of $16-18.9.
-In contrast, the highest average prices belong to the group computers, small_appliances_home_oven_and_coffee, home_appliances_2, agro_industry_and_commerce. These group also come with high freight and payment installment times with average from 3-6 imstallment period. These categories also fell in low selling rate at below 1% while delivery fee is in range $36-48. 
+-- In contrast, the highest average prices belong to the group computers, small_appliances_home_oven_and_coffee, home_appliances_2, agro_industry_and_commerce. These group also come with high freight and payment installment times with average from 3-6 imstallment period. These categories also fell in low selling rate at below 1% while delivery fee is in range $36-48. 
 
 <img src="https://github.com/Tann1901/e-commerce/blob/main/GIt%20ecommerce%20image/Products.jpg" height="450">
 
