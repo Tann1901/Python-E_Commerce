@@ -110,7 +110,8 @@ order_item_df = pd.read_excel('/content/dataset/order_items_dataset.xlsx')
 <img src="https://github.com/Tann1901/e-commerce/blob/main/GIt%20ecommerce%20image/8.%20Check%20null%20value%20of%20combined%20table.jpg" height="250">
 <img src="https://github.com/Tann1901/e-commerce/blob/main/GIt%20ecommerce%20image/9.%20Check%20duplicated%20value.jpg" height="90">
 4. Check if order_id contains null and not_null product_id
-5. Check if null values can be removed
+<img src="[https://github.com/Tann1901/e-commerce/blob/main/GIt%20ecommerce%20image/8.%20Check%20null%20value%20of%20combined%20table.jpg](https://github.com/Tann1901/e-commerce/blob/main/GIt%20ecommerce%20image/12.%20Check%20if%20order_id%20contain%20null%20and%20not%20null%20product_is.jpg)" height="250">
+6. Check if null values can be removed
 <img src="https://github.com/Tann1901/e-commerce/blob/main/GIt%20ecommerce%20image/10.%20check%20order_id%20null%20and%20not%20null.jpg" height="250">
 6. Remove null
 <img src="https://github.com/Tann1901/e-commerce/blob/main/GIt%20ecommerce%20image/11.%20find%20%25%20differences%20of%20removing%20null%20value.jpg" height="250">
