@@ -69,7 +69,9 @@ The analysis performs the business overall of X-ecommerce company that was estab
 This report will also include the reccommendations for their performance.
 
 ### 2. Question
+
 <img src="https://github.com/Tann1901/e-commerce/blob/main/GIt%20ecommerce%20image/1.%20X-ecommerce%20question%20graph-Map%201.png" height="350">
+
 ### 3. Data Understanding
 
 #### a. Entity
