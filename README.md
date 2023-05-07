@@ -104,13 +104,12 @@ order_df = pd.read_excel('/content/dataset/orders_dataset.xlsx')
 #Order item
 order_item_df = pd.read_excel('/content/dataset/order_items_dataset.xlsx')
 ```
-<img src="https://github.com/Tann1901/e-commerce/blob/main/GIt%20ecommerce%20image/5.%20Create%20dataframe.jpg" height="250">
-2. Check if dataframe is null
+2. Check if dataframe is null and duplicated
 <img src="https://github.com/Tann1901/e-commerce/blob/main/GIt%20ecommerce%20image/6.%20Check%20null.jpg" height="250">
 3. Combine all related table to find null and duplicated values
 <img src="https://github.com/Tann1901/e-commerce/blob/main/GIt%20ecommerce%20image/8.%20Check%20null%20value%20of%20combined%20table.jpg" height="250">
+<img src="https://github.com/Tann1901/e-commerce/blob/main/GIt%20ecommerce%20image/9.%20Check%20duplicated%20value.jpg" height="150">
 4. Result of null values
-<img src="https://github.com/Tann1901/e-commerce/blob/main/GIt%20ecommerce%20image/9.%20Check%20duplicated%20value.jpg" height="250">
 5. Check if null values can be removed
 <img src="https://github.com/Tann1901/e-commerce/blob/main/GIt%20ecommerce%20image/10.%20check%20order_id%20null%20and%20not%20null.jpg" height="250">
 6. Remove null
