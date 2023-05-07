@@ -62,7 +62,7 @@ The sales experienced an improvement throughout the year, reaching total of ....
 6. Final & Reccommendations
 
 
-### 1.  Introduction
+### 1. Introduction
 
 The analysis performs the business overall of X-ecommerce company that was established in the end of 2016 up to 2018 with details of services, products, customer and sales overview. 
 
@@ -71,10 +71,13 @@ This report will also include the reccommendations for their performance.
 ### 2. Question
 <img src="https://github.com/Tann1901/e-commerce/blob/main/GIt%20ecommerce%20image/1.%20X-ecommerce%20question%20graph-Map%201.png" height="350">
 ### 3. Data Understanding
+
 #### a. Entity
 <img src="https://github.com/Tann1901/e-commerce/blob/main/GIt%20ecommerce%20image/2.%20Entity.jpg" height="250">
+
 #### b. Attribute
 <img src="https://github.com/Tann1901/e-commerce/blob/main/GIt%20ecommerce%20image/3.%20Attribute.jpg" height="250">
+
 #### c. Entity Diagram
 <img src="https://github.com/Tann1901/e-commerce/blob/main/GIt%20ecommerce%20image/4.%20Entity%20diagram.jpg" height="250">
 
@@ -111,15 +114,25 @@ order_item_df = pd.read_excel('/content/dataset/order_items_dataset.xlsx')
 <img src="https://github.com/Tann1901/e-commerce/blob/main/GIt%20ecommerce%20image/9.%20Check%20duplicated%20value.jpg" height="90">
 4. Check if order_id contains null and not_null product_id. (we need to consider if one order contains many null and not_null  values together that would make data biased)
 <img src="https://github.com/Tann1901/e-commerce/blob/main/GIt%20ecommerce%20image/12.%20Check%20if%20order_id%20contain%20null%20and%20not%20null%20product_is.jpg" height="250">
-5. Remove null_value of order_id
-<img src="<img src="https://github.com/Tann1901/e-commerce/blob/main/GIt%20ecommerce%20image/12.%20Check%20if%20order_id%20contain%20null%20and%20not%20null%20product_is.jpg" height="250">
-7. Check if null values can be removed
-<img src="https://github.com/Tann1901/e-commerce/blob/main/GIt%20ecommerce%20image/10.%20check%20order_id%20null%20and%20not%20null.jpg" height="250">
-6. Remove null
-<img src="https://github.com/Tann1901/e-commerce/blob/main/GIt%20ecommerce%20image/11.%20find%20%25%20differences%20of%20removing%20null%20value.jpg" height="250">
-7. Check if non-English category names can be removed
-8. Remove null
-9. Update data after cleaning
+5. Check if null_value of order_id can be removed
+<img src="<img src="https://github.com/Tann1901/e-commerce/blob/main/GIt%20ecommerce%20image/13.%20Remove%20null%20value%20of%20order_id.jpg" height="250">
+6. Remove null values of order_id
+<img src="https://github.com/Tann1901/e-commerce/blob/main/GIt%20ecommerce%20image/14a.%20Check%20if%20order_id%20of%20product%20category%20in%20english%20contains%20null%20and%20not_null%20product_id.jpg" height="250">
+<img src="https://github.com/Tann1901/e-commerce/blob/main/GIt%20ecommerce%20image/14b.%20Check%20if%20order_id%20of%20product%20category%20in%20english%20contains%20null%20and%20not_null%20product_id.jpg" height="250">
+7. Check if order_id of English_product_category contains null and not_null product_id
+<img src="https://github.com/Tann1901/e-commerce/blob/main/GIt%20ecommerce%20image/15.%20Check%20difference%20of%20revenue%20before%20and%20after%20removing%20products_id%20not%20in%20English.jpg" height="250">
+8. Check difference of revenue before and after removing products_id not in English
+<img src="<img src="https://github.com/Tann1901/e-commerce/blob/main/GIt%20ecommerce%20image/15.%20Check%20difference%20of%20revenue%20before%20and%20after%20removing%20products_id%20not%20in%20English.jpg" height="250">
+9. Drop null values left 
+<img src="https://github.com/Tann1901/e-commerce/blob/main/GIt%20ecommerce%20image/17.%20Drop%20null%20values%20left.jpg" height="250">
+
+<img src="https://github.com/Tann1901/e-commerce/blob/main/GIt%20ecommerce%20image/17b.%20Drop%20null%20values%20left.jpg" height="250">
+11. Update table/data after cleaning
+<img src="https://github.com/Tann1901/e-commerce/blob/main/GIt%20ecommerce%20image/18a.%20Drop%20null%20values.jpg" height="250">
+
+<img src="https://github.com/Tann1901/e-commerce/blob/main/GIt%20ecommerce%20image/18b.%20Update%20data%20after%20cleaning.jpg" height="250">
+
+<img src="https://github.com/Tann1901/e-commerce/blob/main/GIt%20ecommerce%20image/18c.%20Update%20data%20after%20cleaning.jpg" height="250">
 
 ### 4. Analyze Method
 Python, PowerBi, MySQL, Canva
