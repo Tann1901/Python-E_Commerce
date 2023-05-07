@@ -69,33 +69,31 @@ The analysis performs the business overall of X-ecommerce company that was estab
 This report will also include the reccommendations for their performance.
 
 ### 2. Question
-![Alt Text](C:\Users\tanis\Documents\GitHub\e-commerce\GIt ecommerce image\1. X-ecommerce question graph-Map 1.png)
+<img src="https://github.com/Tann1901/e-commerce/blob/main/GIt%20ecommerce%20image/1.%20X-ecommerce%20question%20graph-Map%201.png" height="250">
 ### 3. Data Understanding
 #### a. Entity
-![](../../../OneDrive/Desktop/GIt%20ecommerce%20image/2.%20Entity.jpg)
+<img src="https://github.com/Tann1901/e-commerce/blob/main/GIt%20ecommerce%20image/2.%20Entity.jpg" height="250">
 #### b. Attribute
-![](../../../OneDrive/Desktop/GIt%20ecommerce%20image/3.%20Attribute.jpg)
+<img src="https://github.com/Tann1901/e-commerce/blob/main/GIt%20ecommerce%20image/3.%20Attribute.jpg" height="250">
 #### c. Entity Diagram
-![Alt Text](C:\Users\tanis\Documents\GitHub\e-commerce\GIt ecommerce image\1. X-ecommerce question graph-Map 1.png)
+<img src="https://github.com/Tann1901/e-commerce/blob/main/GIt%20ecommerce%20image/4.%20Entity%20diagram.jpg" height="250">
 
 
 #### d. Data Cleaning
 1. Create dataframe
-
+<img src="https://github.com/Tann1901/e-commerce/blob/main/GIt%20ecommerce%20image/5.%20Create%20dataframe.jpg" height="250">
 2. Check if dataframe is null
-
+<img src="https://github.com/Tann1901/e-commerce/blob/main/GIt%20ecommerce%20image/6.%20Check%20null.jpg" height="250">
 3. Combine all related table to find null and duplicated values
-
+<img src="https://github.com/Tann1901/e-commerce/blob/main/GIt%20ecommerce%20image/8.%20Check%20null%20value%20of%20combined%20table.jpg" height="250">
 4. Result of null values
-
+<img src="https://github.com/Tann1901/e-commerce/blob/main/GIt%20ecommerce%20image/9.%20Check%20duplicated%20value.jpg" height="250">
 5. Check if null values can be removed
-
+<img src="https://github.com/Tann1901/e-commerce/blob/main/GIt%20ecommerce%20image/10.%20check%20order_id%20null%20and%20not%20null.jpg" height="250">
 6. Remove null
-   
+<img src="https://github.com/Tann1901/e-commerce/blob/main/GIt%20ecommerce%20image/11.%20find%20%25%20differences%20of%20removing%20null%20value.jpg" height="250">
 7. Check if non-English category names can be removed
-
 8. Remove null
-
 9. Update data after cleaning
 
 ### 4. Analyze Method
