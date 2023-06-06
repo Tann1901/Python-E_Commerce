@@ -47,7 +47,9 @@ product_category_name | product_category_name_english
 product_id | product_category_name | product_name_length | product_description_length | product_photos_qty | product_weight_g | product_length_cm | product_height_cm | product_width_cm
 ## Conclusion:
 
-The sales experienced an improvement throughout the year, reaching total of .... in 2017 and ... in 2018. However, there should be more attention paid in improving customer satifaction and ....
+From August 2017 to the present, the business situation has developed and grown steadily, resulting in a total revenue of 17.79 million. Freight costs accounted for 2.28 million, while goods sold amounted to 15.51 million. However, due to the availability of payment installment options, there was still an outstanding receivable amount of 2.58 million. The total number of orders reached 97,191, and the number of customer records reached 99,441.
+
+Sales showed a consistent increase throughout the year, with the highest peak recorded in November 2017 at 1,575,685.79. In the following year, 2018, sales revenues remained relatively stable, ranging from 1.2 to 1.5 million per month. In terms of payment types, credit card transactions accounted for 76.84%, followed by cash payments at 19.92%, with a small portion attributed to debit and voucher payments. The review score charts revealed percentages of 56.19%, 18.89%, 8.45%, 3.54%, and 12.93% respectively, representing scores from 5 to 1. These figures provide an overview of the overall sales records, with further detailed analysis presented below.
 
 ## Table of Content:
 1. Introduction
